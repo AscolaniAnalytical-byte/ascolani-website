@@ -54,7 +54,7 @@ It never was.`,
     excerpt: 'In a study on social media habits, nearly 80% of participants stated confidently that they used social media for two hours or less per day. When we checked their actual screen time data, most of them were using it for double that amount. They were not lying. They genuinely believed what they were saying. That gap between belief and behavior is one of the most consequential problems in qualitative research.',
     date: 'June 2025',
     readTime: '8 min read',
-    cover: '/hero1.png',
+    cover: '/idealself.png',
     body: `In a study on social media habits, nearly 80% of participants stated confidently that they used social media for two hours or less per day. When we checked their actual screen time data, most of them were using it for double that amount, and in several cases more. They were not lying. They genuinely believed what they were saying. That gap between belief and behavior is one of the most consequential problems in qualitative research, and most businesses have no idea it is quietly shaping every decision they make.
 
 Interviewing is one of the foundational tools of qualitative research, and for good reason. If you want to understand what your customers think, what they need, what is working and what is not, asking them directly is an obvious starting point. Businesses that do not listen to their customers do not stay in business long. That part is not controversial.
